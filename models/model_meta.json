@@ -1,0 +1,13 @@
+{
+  "best_model": "cnn",
+  "n_subcarriers": 64,
+  "window_size": 100,
+  "label_map": {
+    "0": "empty",
+    "1": "sit",
+    "2": "stand",
+    "3": "walk",
+    "4": "fall"
+  },
+  "trained_at": "2026-08-12T04:31:42"
+}
